@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SuchanaNag002
-- 👀 I’m interested in Web Development and Coding.
 - 🌱 I’m currently learning C++,DSA and web development.
 - 💞️ I’m looking to collaborate on web dev projects and other projects in the technological domain.
 - 📫 Mail me at suchananag2002@gmail.com for futher queries
