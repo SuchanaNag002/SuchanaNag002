@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suchana Nag</h1>
 <h3 align="center">I am a 3rd year undergraduate student studying BTech in Information Technology</h3>
 
-<img align="right" alt="coding" width="400" style="background-color:red;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw3LgjsCYiq_Xj10VS_Lavnk&ust=1703339201615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNis8pOXo4MDFQAAAAAdAAAAABB0">
+<img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchananag002&label=Profile%20views&color=0e75b6&style=flat" alt="suchananag002" /> </p>
 
