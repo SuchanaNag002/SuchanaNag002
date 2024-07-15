@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Suchana Nag</h1>
-<h3 align="center">I am a 3rd year undergraduate student studying BTech in Information Technology</h3>
+<h3 align="center">I am a 4th year undergraduate student studying BTech in Information Technology</h3>
 
 <img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
