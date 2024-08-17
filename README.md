@@ -11,16 +11,16 @@
 <h2 align="center">🌐 Connect with me 🌐</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suchananag/" target="_blank">
+  <a href="https://www.linkedin.com/in/suchana-nag-810077229/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/suchananag002" target="_blank">
+  <a href="https://github.com/SuchanaNag002" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/sn_techie002/" target="_blank">
+  <a href="https://leetcode.com/u/sn_techie002/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:suchananag002@gmail.com" target="_blank">
+  <a href="mailto:snag.jobs02@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
