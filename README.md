@@ -3,7 +3,7 @@
 <h2 align="center">👨‍💻 Introduction 👨‍💻</h2>
 
 <p align="center">
-  I'm Suchana Nag, a 4th year BTech undergraduate from India and a passionate developer with a strong foundation in software development and a keen interest in exploring new technologies. 
+  I'm Suchana Nag, a BTech undergraduate from India and a passionate developer with a strong foundation in software development and a keen interest in exploring new technologies. 
 </p>
 
 <br/><br/>
